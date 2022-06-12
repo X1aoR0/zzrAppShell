@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testShell</string>
+    <string name="secondText">Im second Text</string>
+</resources>
